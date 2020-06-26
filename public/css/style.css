@@ -40,11 +40,15 @@ p {
   color: grey !important;
 }
 
-.btn-floating{
-    margin: 10px !important;
+.btn-floating {
+  margin: 10px !important;
 }
 
-.btn-float{
+.btn-float {
   float: left;
   margin-right: 10px;
+}
+
+.img-small {
+  width: 180px;
 }
